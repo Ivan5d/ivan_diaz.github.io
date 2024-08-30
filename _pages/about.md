@@ -1,8 +1,26 @@
 ---
+layout: splash
 permalink: /about/
 title: "About"
+classes: wide
+header:
+  image: /assets/images/cerro_de_la_silla.png
+  caption: "Photo location: Monterrey, Nuevo León, México"
+
 ---
+## About myself
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi! I'm Ivan, a double-degree mechatronics engineer from the Instituto Tecnológico y De Estudios Superiores de Monterrey (Tec de Monterrey) in Mexico and the Hoschschüle Für Technik und Wirtschaft des Saarlandes (HTW Saar) in Germany.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I've been on the robotics field since 2020 thanks to [Vanttec][vanttec_webpage], an undergraduated research team from Tec de Monterrey that focuses on autonomous vehicles. I started on computer vision algorithms and some robotics simulations for the Unmanned Underwater Vehicle (UUV), which won a third place overall on the Robosub international competition.
+
+In 2021, I made an exchange program in germany and one year later I found a job at [Evocortex GmbH][evocortex_webpage], a german robotics startup. I wrote my bachelor thesis and worked for two years on the Machine Learning (ML) department for the Evocarrier project, an Autonomous Mobile Robot (AMR) focused on automating warehouses.
+
+In summer 2023, I came back to Mexico and become the project leader of the UUV. After a rough year, the UUV project came back to life and I finished my bachelor in june 2024. I gave structure to the UUV and, with help of 15 new members, I initialize multiple projects in parallel on the next departments: mechanics, localization, software, computer vision and control engineering.
+
+Now I'm looking forward to initialize a masters for fall semester 2025 in South Korea, but in the meantime I've been doing research on the synthetic data generation for underwater and hazing environments, developing image segmentation for eye diseases and working with robotic simulators.
+
+Feel free to contact me at: ivan.d557d@hotmail.com I'm always willing to start new projects.
+
+[evocortex_webpage]: https://evocortex.org/de/
+[vanttec_webpage]: https://vanttec.com/
