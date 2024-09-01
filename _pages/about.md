@@ -5,7 +5,7 @@ title: "About"
 classes: wide
 header:
   image: /assets/images/cerro_de_la_silla.png
-  caption: "Photo location: Monterrey, Nuevo León, México"
+  caption: "View of the Cerro de la Silla in Monterrey, Nuevo Leon, Mexico"
 
 ---
 ## About myself
@@ -18,7 +18,7 @@ In 2021, I made an exchange program in germany and one year later I found a job 
 
 In summer 2023, I came back to Mexico and become the project leader of the UUV. After a rough year, the UUV project came back to life and I finished my bachelor in june 2024. I gave structure to the UUV and, with help of 15 new members, I initialize multiple projects in parallel on the next departments: mechanics, localization, software, computer vision and control engineering.
 
-Now I'm looking forward to initialize a masters for fall semester 2025 in South Korea, but in the meantime I've been doing research on the synthetic data generation for underwater and hazing environments, developing image segmentation for eye diseases and working with robotic simulators.
+Now I'm looking forward to initialize a masters for fall semester 2025 in South Korea, but in the meantime I've been doing research on the synthetic data generation for underwater and hazing environments, developing computer vision algorithms for eye diseases diagnosis and working with robotic simulators.
 
 Feel free to contact me at: ivan.d557d@hotmail.com I'm always willing to start new projects.
 

@@ -1,42 +1,28 @@
 ---
-layout: splash
+layout: single
 permalink: /projects/
-title: "Main Projects"
-
-feature_row:
-  - title: "UUV"
-    url: /projects/UUV
-    image_path: /assets/images/uuv2.jpeg
-    excerpt: "Learn more about the the Unmanned Underwater (UUV) project. "
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - title: "Synthetic data"
-    url: /projects/synthetic_data
-    image_path: /assets/images/klt_synthetic.jpeg
-    excerpt: "Learn more about the synthetic data project."
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - title: "Simulation for robotics"
-    url: /projects/simulation
-    image_path: /assets/images/uuv_simulated.jpeg
-    excerpt: "Learn more about how robotics simulation helped the actual UUV."
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - title: "Explainable AI"
-    url: /projects/xai
-    image_path: /assets/images/heatmap.jpeg
-    excerpt: "Learn more about how the Explainable AI was used for the object detection task."
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-
+title: "Projects"
+classes: wide
+header: 
+  overlay_image: /assets/images/horcones.jpeg
+  caption: "Photo location: La Huasteca natural park in Monterrey, Nuevo Leon, Mexico"
+author_profile: true
+excerpt: Here is a list of the projects that I've been working on, as well as the links to the publicly available source codes. 
 ---
 
-{% include feature_row %}
+### Computer Vision
+[Underwater Synthetic Data Generation](https://github.com/Ivan5d/underwater_synthdata): Procedural pipeline implementation for underwater synthetic image generation
 
-## Synthetic Data Generation for Underwater and Foggy Environments
+[Explainable AI for Synthetic Data Generation](https://github.com/Ivan5d/AI_Synthdata): XAI methods implementation for improving the synthetic data generation in underwater applications.  
+
+**Object Detection for eyes diseases (glaucoma):** Analysis and training of different neural network models for glaucoma diagnosis.   
 
 ## Underwater Autonomous Vehicle (UUV)
-### Computer Vision
-### Control Engineering
+[Gazebo robotics simulation for an UUV](https://github.com/vanttec/vanttec_sim): Gazebo implementation for an underwater robot.
 
-## Explainable AI
+[ROS repository of the UUV](https://github.com/vanttec/vanttec_uuv): Robotic Operating System (ROS) repository of the UUV.
+
+**(Next step) Reinforcement learning using Isaac Sim for a gripper system:** Zero shot learning for a gripper system using Isaac Gym.
+
+## Business and web development
+[Webpage]()
