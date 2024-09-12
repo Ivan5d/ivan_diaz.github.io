@@ -8,9 +8,12 @@ classes: wide
 
 ## Bachelor Thesis
 
-**Object Detection System Implementation for an Autonomous Mobile Robot using a Synthetic 2D-RGB Data Generation Approach.**
+**Object Detection System Implementation for an Autonomous Mobile Robot using a Synthetic 2D-RGB Data Generation Approach. (1.3 in European Credit Transfer)**
 
-2023 HTW Saar (Saarbrücken, Germany) bachelor thesis written within [Evocortex GmbH](https://evocortex.org/de/) robotics company under the advisory of [M.Eng. Waldemar Haag](https://www.th-nuernberg.de/person/haag-waldemar/) in Nürnberg, Germany.
+- Problem (dataset shift): training with purely synthetic data (computer rendered images) significantly reduces the object detection rate in real world industrial scenarios (initial tests obtained a mean average precision lower than 50%).
+- Contribution: following the domain randomization approach, the performance of neural networks during the detection task achieved an mAP slightly over 60% on real world scenarios.
+
+_April 2023 HTW Saar (Saarbrücken, Germany) bachelor thesis written within [Evocortex GmbH](https://evocortex.org/de/) robotics company under the advisory of [M.Eng. Waldemar Haag](https://www.th-nuernberg.de/person/haag-waldemar/) in Nürnberg, Germany._
 
 
 ## Conference Paper
@@ -26,7 +29,7 @@ classes: wide
 2024 Educational Sciences volume 14
 
 
-## On going research:
-**Synthetic data generation for underwater and hazing environments.**
+## Targeted for CVPR 2025:
+**Synthetic data image generation for underwater tasks and terrestrial hazing challenging images.**
 
-Contribution: introduction of attenuation coefficients within the control of diffuse models and therefore rendering more realistic underwater and hazing images. Working under the advice of [Dr. Alberto Muñoz](https://scholar.google.com.mx/citations?user=3o9-OssAAAAJ&hl=en).
+Contribution: control of diffuse models for rendering more realistic underwater and terrestrial hazing images. Working under the advice of [Dr. Alberto Muñoz](https://scholar.google.com.mx/citations?user=3o9-OssAAAAJ&hl=en).

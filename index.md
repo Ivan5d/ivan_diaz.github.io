@@ -11,8 +11,8 @@ header:
 
 feature_row:
   - image_path: /assets/images/heatmap.jpeg
-    alt: "AI"
-    title: "AI/Computer Vision"
+    alt: "XAI"
+    title: "Computer Vision"
     excerpt: "XAI, object detection and image segmentation."
     url: "/projects/"
     btn_label: "Read More"
@@ -34,11 +34,12 @@ feature_row:
 ---
 I'm a mechatronics engineer with a double degree from [_Tec de Monterrey_](https://tec.mx/en) (Mexico) and [_HTW Saar_](https://www.htwsaar.de/) (Germany) with a strong interest on robotics and machine learning algorithms.
 
-## Projects 
+## Main Projects 
 {% include feature_row %}
 
-## Research
-Research interests.
+## Research Interests
+- Computer vision problems focused on robotics
+- Synthetic data generation for feeding ML algorithms
 
 ## News and Updates
-Timeline 
+- (Puiblication targeted for CVPR 2025): Synthetic data image generation for underwater tasks and terrestrial hazing challenging images. _Under the advice of [Dr. Alberto Muñoz](https://scholar.google.com.mx/citations?user=3o9-OssAAAAJ&hl=en)._

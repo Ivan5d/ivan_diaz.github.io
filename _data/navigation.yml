@@ -9,3 +9,5 @@ main:
     url: /about/
   - title: "CV"
     url: "/files/CV_E_AISim.pdf"
+  - title: ""
+    url: "/UUV/"
