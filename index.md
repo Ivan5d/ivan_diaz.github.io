@@ -20,13 +20,13 @@ feature_row:
   - image_path: /assets/images/uuv_overview.svg
     alt: "UUV"
     title: "UUV"
-    excerpt: "Unmanned Underwater Vehicle (UUV) application."
+    excerpt: "Unmanned Underwater Vehicle (UUV)."
     url: "/projects/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/synthetic_overview.svg
     title: "Synthetic Data"
-    excerpt: "Synthetic data generation for underwater applications."
+    excerpt: "Synthetic data generation for image segmentation and object detection task for terrestrial and underwater applications."
     url: "/projects/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -38,8 +38,8 @@ I'm a mechatronics engineer with a double degree from [_Tec de Monterrey_](https
 {% include feature_row %}
 
 ## Research Interests
-- Computer vision problems focused on robotics
-- Synthetic data generation for feeding ML algorithms
+- Computer vision problems focused on robotics.
+- Synthetic data generation for feeding ML algorithms.
 
 ## News and Updates
-- (Puiblication targeted for CVPR 2025): Synthetic data image generation for underwater tasks and terrestrial hazing challenging images. _Under the advice of [Dr. Alberto Muñoz](https://scholar.google.com.mx/citations?user=3o9-OssAAAAJ&hl=en)._
+- (Puiblication targeted for IROS 2025): LLM-Planner with a low-level message feedback system that decreases computational power and increases performance on unseen tasks. _Under the advice of [Dr. Alberto Muñoz](https://scholar.google.com.mx/citations?user=3o9-OssAAAAJ&hl=en)._

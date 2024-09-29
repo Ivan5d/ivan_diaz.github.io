@@ -29,7 +29,5 @@ _April 2023 HTW Saar (Saarbrücken, Germany) bachelor thesis written within [Evo
 2024 Educational Sciences volume 14
 
 
-## Targeted for CVPR 2025:
-**Synthetic data image generation for underwater tasks and terrestrial hazing challenging images.**
-
-Contribution: control of diffuse models for rendering more realistic underwater and terrestrial hazing images. Working under the advice of [Dr. Alberto Muñoz](https://scholar.google.com.mx/citations?user=3o9-OssAAAAJ&hl=en).
+## Targeted for IROS 2025:
+**LLM-Planner with a low-level message feedback system that decreases computational power and increases performance on unseen tasks.** Working under the advice of [Dr. Alberto Muñoz](https://scholar.google.com.mx/citations?user=3o9-OssAAAAJ&hl=en).
