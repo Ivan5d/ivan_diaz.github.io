@@ -13,20 +13,20 @@ feature_row:
   - image_path: /assets/images/heatmap.jpeg
     alt: "XAI"
     title: "Computer Vision"
-    excerpt: "XAI, object detection and image segmentation."
+    excerpt: "XAI, object detection and image classification."
     url: "/projects/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/uuv_overview.svg
     alt: "UUV"
     title: "UUV"
-    excerpt: "Unmanned Underwater Vehicle (UUV)."
+    excerpt: "Unmanned Underwater Vehicle (UUV) project."
     url: "/projects/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/synthetic_overview.svg
     title: "Synthetic Data"
-    excerpt: "Synthetic data generation for image segmentation and object detection task for terrestrial and underwater applications."
+    excerpt: "Synthetic data generation for image segmentation and object detection tasks used in  terrestrial and underwater applications."
     url: "/projects/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -40,6 +40,7 @@ I'm a mechatronics engineer with a double degree from [_Tec de Monterrey_](https
 ## Research Interests
 - Computer vision problems focused on robotics.
 - Synthetic data generation for feeding ML algorithms.
+- LLMs focused on robotics.
 
 ## News and Updates
 - (Puiblication targeted for IROS 2025): LLM-Planner with a low-level message feedback system that decreases computational power and increases performance on unseen tasks. _Under the advice of [Dr. Alberto Muñoz](https://scholar.google.com.mx/citations?user=3o9-OssAAAAJ&hl=en)._
