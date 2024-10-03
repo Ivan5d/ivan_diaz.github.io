@@ -43,4 +43,4 @@ I'm a mechatronics engineer with a double degree from [_Tec de Monterrey_](https
 - LLMs focused on robotics.
 
 ## News and Updates
-- (Puiblication targeted for IROS 2025): LLM-Planner with a low-level message feedback system that decreases computational power and increases performance on unseen tasks. _Under the advice of [Dr. Alberto Muñoz](https://scholar.google.com.mx/citations?user=3o9-OssAAAAJ&hl=en)._
+- (Puiblication targeted for IROS 2025): Synthetic data generation for object detection and image segmentation tasks of underwater within hazing environments. _Under the advice of [Dr. Alberto Muñoz](https://scholar.google.com.mx/citations?user=3o9-OssAAAAJ&hl=en)._

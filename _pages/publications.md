@@ -30,4 +30,4 @@ _April 2023 HTW Saar (Saarbrücken, Germany) bachelor thesis written within [Evo
 
 
 ## Targeted for IROS 2025:
-**LLM-Planner with a low-level message feedback system that decreases computational power and increases performance on unseen tasks.** Working under the advice of [Dr. Alberto Muñoz](https://scholar.google.com.mx/citations?user=3o9-OssAAAAJ&hl=en).
+**Synthetic data generation for object detection and image segmentation tasks within underwater and hazing environments** Working under the advice of [Dr. Alberto Muñoz](https://scholar.google.com.mx/citations?user=3o9-OssAAAAJ&hl=en).
