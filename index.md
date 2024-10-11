@@ -21,7 +21,7 @@ feature_row:
     alt: "UUV"
     title: "UUV"
     excerpt: "Unmanned Underwater Vehicle (UUV) project."
-    url: "/projects/"
+    url: "/UUV/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/synthetic_overview.svg
