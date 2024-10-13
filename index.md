@@ -21,13 +21,13 @@ feature_row:
     alt: "UUV"
     title: "UUV"
     excerpt: "Unmanned Underwater Vehicle (UUV) project."
-    url: "/UUV/"
+    url: "/projects/UUV/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/synthetic_overview.svg
     title: "Synthetic Data"
     excerpt: "Synthetic data generation for image segmentation and object detection tasks used in  terrestrial and underwater applications."
-    url: "/Synthetic/"
+    url: "/projects/Synthetic/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
