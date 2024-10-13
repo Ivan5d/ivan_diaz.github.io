@@ -50,3 +50,13 @@ At the moment, we are working with synthetic data, i.e., rendered images with an
 
 ## Working on: 
 - Targeted for IROS2025: synthetic data generation for underwater applications. A novel approach introducing actual physical coefficients to condition diffusion models.
+
+
+# Software
+The UUV aplication works with ROS. Many students generations have passed by and the repo is broken with different python and ROS versions. In addition, the Gazebo simulation is outdated and is missing key sensors necesarry for the UUV, such as the sonar.
+
+## Working on:
+- Repo cleaning, reducing branches, solving issues and moving the whole application to ROS2.
+- Updating gazebo simulation for a more realistic underwater application, including sensors such as sonar and other hydrostatic plugins used by the control schemes.
+
+Public repository in github: [Vanttec UUV](https://github.com/vanttec/vanttec_uuv)
