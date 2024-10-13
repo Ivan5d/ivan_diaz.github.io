@@ -11,14 +11,14 @@ excerpt: Here is a list of the projects that I've been working on, as well as th
 ---
 
 ### Computer Vision
-[Synthetic Data Generation](/projects/Synthetic/): Autonomous vehicles rely on annotations for object detection and image segmentation task. This pipeline tries to solve this problem, where you use as an input a CAD model and the output is a realistic image with its annotation. (In progress: this is an improvement to my work at Evocortex)
+[Synthetic Data Generation](Synthetic/): Autonomous vehicles rely on annotations for object detection and image segmentation task. This pipeline tries to solve this problem, where you use as an input a CAD model and the output is a realistic image with its annotation. (In progress: this is an improvement to my work at Evocortex)
 
 *Open source github repo*: [vanttec_synthdata](https://github.com/vanttec/vanttec_synthdata)
 
 Image classification for glaucoma (eyes disease): image classfication using firstly a segmentation model and secondly a classification model for glaucoma diagnosis. Project for the [Hospital de la Ceguera](https://apec.org.mx/)
 
 ### Autonomous Vehicle
-[Unmanned Underwater Vehicle](/projects/UUV/): VantTec’s UUV is a project at the Tecnológico de Monterrey University. I lead the UUV project one year before my engineering graduation and opened up multiple projects in parallel. The results here shown were made entirely during my time.
+[Unmanned Underwater Vehicle](UUV/): VantTec’s UUV is a project at the Tecnológico de Monterrey University. I lead the UUV project one year before my engineering graduation and opened up multiple projects in parallel. The results here shown were made entirely during my time.
 
 *Open source github repo*: [vanttec_uuv](https://github.com/vanttec/vanttec_uuv)
 
