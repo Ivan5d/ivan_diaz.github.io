@@ -27,7 +27,7 @@ feature_row:
   - image_path: /assets/images/synthetic_overview.svg
     title: "Synthetic Data"
     excerpt: "Synthetic data generation for image segmentation and object detection tasks used in  terrestrial and underwater applications."
-    url: "/projects/"
+    url: "/Synthetic/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
