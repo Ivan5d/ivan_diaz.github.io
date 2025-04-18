@@ -27,7 +27,3 @@ _April 2023 HTW Saar (Saarbrücken, Germany) bachelor thesis written within [Evo
 [Disciplinary Competencies Overview of the First Cohorts of Undergraduate Students in the Biotechnology Engineering Program under the Tec 21 Model](https://www.mdpi.com/2227-7102/14/1/30)
 
 2024 Educational Sciences volume 14
-
-
-## Targeted for IROS 2025:
-**Synthetic data generation for object detection and image segmentation tasks within underwater and hazing environments** Working under the advice of [Dr. Alberto Muñoz](https://scholar.google.com.mx/citations?user=3o9-OssAAAAJ&hl=en).

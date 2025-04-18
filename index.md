@@ -40,7 +40,7 @@ I'm a mechatronics engineer with a double degree from [_Tec de Monterrey_](https
 ## Research Interests
 - Computer vision problems focused on robotics.
 - Synthetic data generation for feeding ML algorithms.
-- LLMs focused on robotics.
+- VLM/LLMs focused on robotics.
 
 ## News and Updates
-- (Puiblication targeted for IROS 2025): Synthetic data generation for object detection and image segmentation tasks within underwater and hazing environments. _Under the advice of [Dr. Alberto Muñoz](https://scholar.google.com.mx/citations?user=3o9-OssAAAAJ&hl=en)._
+- Retrieval Augmented Generation (RAG) project for touristic information and tours at Tec de Monterrey and Vanttec (2025).

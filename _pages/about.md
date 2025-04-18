@@ -18,7 +18,7 @@ In 2021, I started an exchange program with the HTW Saar in germany and eight mo
 
 In summer 2023, I came back to Mexico and become the project leader of the UUV. After a rough year, the UUV project came back to life and I finished my bachelor in june 2024. I gave structure to the UUV and, with help of more than 15 new members, I initialize multiple projects in parallel on the next departments: mechanics, localization, software, computer vision and control engineering.
 
-Now I'm looking forward to initialize a masters for fall semester 2025 in South Korea, but in the meantime I've been doing research on LLM Planners, working on synthetic data generation for underwater and terrestrial hazing environments, developing computer vision algorithms for eye diseases diagnosis, working with robotic simulators and working at the local manufacturer Omega.
+Now I'm looking forward to initialize a masters for fall semester / spring 2026 semester in Asia, but in the meantime I've been working on a Retrieval Augmented Generation (RAG) for touristic information and tours at Tec de Monterrey and working at Omega, a local manufacturer.
 
 Feel free to contact me at: ivan.d557d@hotmail.com I'm always willing to start new projects.
 
